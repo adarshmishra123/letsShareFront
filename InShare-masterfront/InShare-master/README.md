@@ -1,3 +1,3 @@
-# InShare - easy file sharing
+# letsShare - easy file sharing
 Simple file sharing web app with drag and drop file upload
 
